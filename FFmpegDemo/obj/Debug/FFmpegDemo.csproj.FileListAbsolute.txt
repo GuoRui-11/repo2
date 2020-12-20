@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.frmPlayer.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\bin\Debug\FFmpegDemo.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\bin\Debug\FFmpegDemo.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\bin\Debug\FFmpegDemo.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\CSharpVideoDemo-master\CSharpVideoDemo-master\FFmpegDemo\obj\Debug\FFmpegDemo.pdb
